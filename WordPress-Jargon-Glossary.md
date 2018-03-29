@@ -398,6 +398,10 @@ A taxonomy is a way to group things together. In WordPress, some common taxonomi
 
 A Team Rep is a person who represents the Make WordPress team to the rest of the project, make sure issues are raised and addressed as needed, and coordinates cross-team efforts.
 
+##Template Hierarchy
+
+WordPress decides which template or set of templates should be used to display a page. Some templates are general while others can be specific and override how a page is displayed. This comes in handy when creating a Child Theme to override a Parent Theme’s behavior and or appearance.
+
 ##Theme / Parent Theme
 
 A theme dictates the style and function of your WordPress website. Child Themes derive from the main parent theme.
