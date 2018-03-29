@@ -228,7 +228,7 @@ All local/regional gatherings that are officially a part of the WordPress world 
 
 ##Meta
 
-Meta is a term that refers to the inside workings of a group. For us, this is the team that works on internal WordPress sites like WordCamp Central and Make WordPress.
+Meta is a information about data. The word “Meta” can be created for Posts and Terms. Meta is also a name that’s used for the inside workings of a group of the WordPress community. For the Marketing team, we work on internal WordPress sites like WordCamp Central and Make WordPress.
 
 ##Metabox
 
