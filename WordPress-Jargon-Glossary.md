@@ -35,7 +35,7 @@ An avatar is an image or illustration that specifically refers to a character th
 
 ##Back-end developer
 
-A back-end developer builds or manages the WordPress database, CMS and how it connects to the server. The front end user, for example, a content creator, can then use WordPress to create content and other applications available at the front end of the website.
+A back-end developer modifies database and features of the WordPress core. In other words, it manages everything under the hood.
 
 ##Backlink
 
@@ -64,7 +64,7 @@ A Child Theme is a customized theme based upon a Parent Theme. It’s considered
 
 ##Chmod
 
-“CHange MODe” is a way to make a file executable by a linux or mac based computer.
+Chmod stands for “CHange MODe” and it is a command for Unix systems (Linux, Mac, ...) to manage permission/authorization over files and folders of a user.
 
 ##CLI
 
@@ -160,7 +160,7 @@ Is an acronym for Globally Recognized Avatar. It is the avatar system managed by
 
 ##GTE
 
-General Translation Editor – One of the polyglots team leads in a geographic region https://make.wordpress.org/polyglots/teams/.
+General Translation Editor – One of the polyglots team leads in a geographic region https://make.wordpress.org/polyglots/teams/. Further information at https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor.
 
 ##Gutenberg
 
@@ -176,7 +176,7 @@ In WordPress theme and development, hooks are functions that can be applied to a
 
 ##HTML
 
-HTML is an acronym for Hyper Text Markup Language. It is a programming language that is used in the development of web pages and websites.
+HTML is an acronym for Hyper Text Markup Language. It is a markup language that is used in the development of web pages and websites.
 
 ##HTTP
 
@@ -260,7 +260,7 @@ NGINX is open source software for web serving, reverse proxying, caching, load b
 
 ##Open Source
 
-Open Source denotes software for which the original source code is made freely available and may be redistributed and modified.  Open Source is often delivered via a licensing model, see GPL.
+Open Source denotes software for which the original source code is made freely available and may be redistributed and modified.  Open Source must be delivered via a licensing model, see GPL.
 
 ##P2/O2
 
@@ -282,13 +282,9 @@ The act of sending a very small amount of data to an end point.  Ping is used in
 
 A pingback is a special type of comment that’s created when you link to another blog post, as long as the other blog is set to accept pingbacks. Pingback allows you to notify other bloggers that you have linked to their article on your website. Although there are some minor technical differences, a trackback is basically the same thing as a pingback.
 
-##Plugin
-
-A plugin adds code which performs a function on your site. These can be free in the WordPress.org Plugin Directory or can be cost-based plugin from a third-party.
-
 ##Plugins
 
-A plugin is a piece of software containing a group of functions that can be added to a WordPress website. They can extend functionality or add new features to your WordPress websites. WordPress plugins are written in the PHP programming language and integrate seamlessly with WordPress. https://wordpress.org/plugins/.
+A plugin is a piece of software containing a group of functions that can be added to a WordPress website. They can extend functionality or add new features to your WordPress websites. WordPress plugins are written in the PHP programming language and integrate seamlessly with WordPress. These can be free in the WordPress.org Plugin Directory https://wordpress.org/plugins/ or can be cost-based plugin from a third-party.
 
 ##Point Release
 
