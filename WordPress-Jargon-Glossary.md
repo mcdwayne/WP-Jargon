@@ -152,7 +152,7 @@ Github is a website that offers online implementation of git repositories that c
 
 ##GPL
 
-GPL is an acronym for GNU Public License. It is the standard license WordPress uses for Open Source licensing https://developer.wordpress.org/themes/getting-started/wordpress-licensing-the-gpl/.The GPL is a ‘copyleft’ license https://www.gnu.org/licenses/copyleft.en.html . This means that derivative work can only be distributed under the same license terms. This is in distinction to permissive free software licenses, of which the BSD license and the MIT License are widely used examples.
+GPL is an acronym for GNU Public License. It is the standard license WordPress uses for Open Source licensing https://wordpress.org/about/license/. The GPL is a ‘copyleft’ license https://www.gnu.org/licenses/copyleft.en.html . This means that derivative work can only be distributed under the same license terms. This is in distinction to permissive free software licenses, of which the BSD license and the MIT License are widely used examples.
 
 ##Gravatar
 
